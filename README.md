@@ -4,6 +4,8 @@
 
 Generate white, pink and brown noise plus rain-like textures for focus and sleep, with a timer and menu bar control.
 
+> 🆓 A free, open-source **Dark Noise alternative** for macOS 14+. Native Swift, no accounts, no subscriptions, MIT licensed.
+
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
 ![Swift 5.9](https://img.shields.io/badge/Swift-5.9-orange)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
@@ -74,6 +76,10 @@ NoiseLoom does not request any special permissions. It does not use Accessibilit
 NoiseLoom is free and always will be. If it helps you focus or sleep better, you can support development:
 
 [Support Or (Leo) Davidai ❤️](https://ko-fi.com/leodavidai)
+
+## More free Mac apps
+
+NoiseLoom is one of [60 free, open-source Mac utilities](https://github.com/turhe123/mac-apps) built the same way: native Swift, no accounts, no telemetry. Browse the full gallery at [turhe123.github.io/mac-apps](https://turhe123.github.io/mac-apps/).
 
 ## License
 
