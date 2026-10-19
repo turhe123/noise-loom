@@ -1,5 +1,7 @@
 # NoiseLoom
 
+**🌐 Website:** [turhe123.github.io/noise-loom](https://turhe123.github.io/noise-loom/)
+
 Generate white, pink and brown noise plus rain-like textures for focus and sleep, with a timer and menu bar control.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -26,7 +28,13 @@ NoiseLoom is a free, open-source, 100% native, backend-free alternative to paid 
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-menu-bar-panel.png" alt="NoiseLoom menu bar panel with noise generators and controls" width="720"></p>
+
+<p align="center"><em>The NoiseLoom menu bar panel playing a pink and brown noise mix, with master volume, per-generator sliders, sleep timer and scenes.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-settings.png" alt="NoiseLoom Settings window" width="560"></p>
+
+<p align="center"><em>Settings for the default scene, resume on launch, fade-in and fade-out durations, and launch at login.</em></p>
 
 ## Install
 

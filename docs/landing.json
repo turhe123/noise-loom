@@ -1,0 +1,24 @@
+{
+  "seo_title": "Ambient noise generator for macOS",
+  "seo_description": "NoiseLoom is a free, open-source menu bar app that synthesizes white, pink, brown and blue noise, rain and wind, with a sleep timer and saved scenes.",
+  "hero_title_line1": "Sound for focus,",
+  "hero_title_accent": "built in your menu bar",
+  "hero_sub": "NoiseLoom synthesizes white, pink and brown noise, rain and wind live on your Mac. Click the waveform icon in the menu bar, or press the play/pause media key.",
+  "features_title": "Everything you need to focus.",
+  "features_sub": "Six generators, a sleep timer and saved scenes, all synthesized on your Mac with no sound files or network.",
+  "features": [
+    {"icon": "sliders", "title": "Mix up to three generators", "desc": "Choose from white, pink, brown and blue noise, plus rain and wind textures. Each has its own enable checkbox and volume slider, with a master volume on top."},
+    {"icon": "clock", "title": "Sleep timer with fade-out", "desc": "Pick Off, 15, 30, 60 or 120 minutes and watch the live countdown. The sound fades out at the end, and the countdown stays correct across system sleep."},
+    {"icon": "folder", "title": "Scenes you can save", "desc": "Start with the built-in Focus, Sleep and Rain scenes, or save your own named mixes and delete them later."},
+    {"icon": "speaker", "title": "Click-free audio", "desc": "Volume changes are smoothed per sample, pausing fades briefly, and the mix is soft-limited to prevent clipping. Playback restarts if you unplug headphones."},
+    {"icon": "keyboard", "title": "Media keys and Now Playing", "desc": "Play and pause with the system media keys, and see NoiseLoom in the Now Playing controls."},
+    {"icon": "window", "title": "Lives in the menu bar", "desc": "A compact panel holds all controls, and the waveform icon animates while playing. Settings cover fade durations, resume on launch and launch at login."}
+  ],
+  "permissions_step": "No special permissions are required.",
+  "faq": [
+    {"q": "Is NoiseLoom really free and open source?", "a": "Yes. NoiseLoom is free to use and released under the MIT license, with the full source on GitHub. There are no accounts, subscriptions or in-app purchases, and an optional Ko-fi button is the only way to support it."},
+    {"q": "Does it need any permissions?", "a": "No. NoiseLoom does not use Accessibility, Screen Recording, the microphone, the camera, location or the network, and audio is only played out, never recorded. Launch at login is optional and may appear under System Settings, General, Login Items."},
+    {"q": "Where is my data stored?", "a": "Only on your Mac. Your saved scenes and settings are stored locally in UserDefaults as JSON, and nothing is sent anywhere."},
+    {"q": "Why isn't the app notarized?", "a": "Notarization requires a paid Apple Developer account, and NoiseLoom is a free project. Right-click the app and choose Open once to launch it, or build it from source with Xcode."}
+  ]
+}

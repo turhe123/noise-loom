@@ -1,0 +1,4 @@
+[
+  {"file":"01-menu-bar-panel.png","caption":"The NoiseLoom menu bar panel playing a pink and brown noise mix, with master volume, per-generator sliders, sleep timer and scenes.","alt":"NoiseLoom menu bar panel with noise generators and controls"},
+  {"file":"02-settings.png","caption":"Settings for the default scene, resume on launch, fade-in and fade-out durations, and launch at login.","alt":"NoiseLoom Settings window"}
+]
